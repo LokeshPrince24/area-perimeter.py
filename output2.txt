@@ -1,0 +1,2 @@
+Area of rectangle is: 10
+Perimeter of rectangle is: 14
